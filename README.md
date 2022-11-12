@@ -2,4 +2,4 @@
 
 This project is a basic fetch api with vanilla JS.
 
-<img src="https://ibb.co/Wp15zfT" />
+<img src="[https://ibb.co/Wp15zfT](https://i.ibb.co/tP5K2Dd/Componente-2-1.png)" />
